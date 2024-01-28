@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809260276327",
+    "project_id": "whatsapp-clone-49ca5",
+    "storage_bucket": "whatsapp-clone-49ca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809260276327:android:82b078cd5c7a791cc092c2",
+        "android_client_info": {
+          "package_name": "com.example.talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADTiVNHEA7MXgy2WJ71gSE6tBkNYJ4trM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
